@@ -1,1 +1,1 @@
-# Semester-1
+# Competive Coding practice in c++
